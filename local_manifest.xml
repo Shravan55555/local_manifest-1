@@ -11,6 +11,7 @@
 	
  <!-- Kernel Trees-->
  <project path="kernel/realme/RMX1901" name="H1mJT/kernel_realme_RMX1901" remote="ghub" revision="x.337_ksu" />
- </manifest>
+ 
  <!--proximity patch-->
  <project path="frameworks/base" name="Shravan55555/proximity_patch" remote="ghub" revision="main" />
+ </manifest>
